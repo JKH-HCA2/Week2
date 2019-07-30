@@ -1,5 +1,7 @@
 "use strict";
 
+//date script
+
 let d = new Date("June 1, 2019")
 let duration = 90;
 
