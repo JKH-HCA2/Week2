@@ -1,0 +1,16 @@
+.row {
+    margin-left: 25%;
+    width: 50%;
+}
+
+.calc {
+    padding: 5%;
+}
+
+.btn {
+    margin-top: 15px;
+}
+
+.totalBill {
+    margin-top: 20px;
+}
